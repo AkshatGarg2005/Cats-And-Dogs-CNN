@@ -17,8 +17,7 @@ cnn-demo/
 ├── Untitled.ipynb              # run this notebook live
 ├── cnn_cats_dogs_cpu.keras     # saved model (~11 MB, optional)
 ├── data/                       # auto-created (cats/ dogs/ images)
-├── kaggle/                     # raw downloaded images (not committed)
-└── .gitignore
+└── kaggle/                     # raw downloaded images (not committed)
 ```
 
 ---
