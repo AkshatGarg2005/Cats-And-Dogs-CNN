@@ -53,9 +53,3 @@ conda activate cnn_cpu_env
 cd cnn-demo
 jupyter notebook   # Kernel ▸ Restart & Run All
 ```
-
----
-
-## License
-
-MIT © 2025 Akshat Garg
